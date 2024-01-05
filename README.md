@@ -65,7 +65,7 @@ Generates the Fibonacci sequence and calculates its sum.
 print_primes()
 Prints prime numbers up to the entered number.
 
-multiplicationTable()
+`multiplicationTable()`
 Prints the multiplication table up to the entered number.
 
 factorialCalculator()
