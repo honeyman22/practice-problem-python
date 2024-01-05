@@ -53,35 +53,35 @@ stringFun.decrypt(stringFun.encryt())
 stringFun.encryt()
 stringFun.reversestring()
 ```
-FunctionsMath
+##FunctionsMath
 The FunctionsMath module provides methods for solving various mathematical problems.
 
-isOdd()
+`isOdd()`
 Checks if the entered number is odd or even.
 
-fibonaccisum()
+`fibonaccisum()`
 Generates the Fibonacci sequence and calculates its sum.
 
-print_primes()
+`print_primes()`
 Prints prime numbers up to the entered number.
 
 `multiplicationTable()`
 Prints the multiplication table up to the entered number.
 
-factorialCalculator()
+`factorialCalculator()`
 Calculates the factorial of the entered number.
 
-FunctionsString
+##FunctionsString
 The FunctionsString module provides methods for performing operations on strings.
 
-encryt()
+`encryt()`
 Encrypts the entered string using a Caesar cipher.
 
-decrypt(encrypt)
+`decrypt(encrypt)`
 Decrypts the given encrypted string.
 
-palindromeChecker()
+`palindromeChecker()`
 Checks if the entered string is a palindrome.
 
-reversestring()
+`reversestring()`
 Reverses the entered string.
