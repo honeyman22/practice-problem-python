@@ -38,6 +38,7 @@ function.multiplicationTable()
 function.factorialCalculator()
 ```
 ### String Problems
+```python
 from functionstring import FunctionsString
 
 # Get user input for a string
@@ -51,3 +52,4 @@ stringFun.palindromeChecker()
 stringFun.decrypt(stringFun.encryt())
 stringFun.encryt()
 stringFun.reversestring()
+```
