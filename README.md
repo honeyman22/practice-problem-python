@@ -53,7 +53,7 @@ stringFun.decrypt(stringFun.encryt())
 stringFun.encryt()
 stringFun.reversestring()
 ```
-##FunctionsMath
+## FunctionsMath
 The FunctionsMath module provides methods for solving various mathematical problems.
 
 `isOdd()`
@@ -71,7 +71,7 @@ Prints the multiplication table up to the entered number.
 `factorialCalculator()`
 Calculates the factorial of the entered number.
 
-##FunctionsString
+## FunctionsString
 The FunctionsString module provides methods for performing operations on strings.
 
 `encryt()`
@@ -85,3 +85,8 @@ Checks if the entered string is a palindrome.
 
 `reversestring()`
 Reverses the entered string.
+
+
+### License
+This project is licensed under the Nishan Bhattarai.
+
