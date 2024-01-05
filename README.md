@@ -36,3 +36,16 @@ function.fibonaccisum()
 function.print_primes()
 function.multiplicationTable()
 function.factorialCalculator()
+from functionstring import FunctionsString
+
+# Get user input for a string
+stringinput = input("Enter a string: ")
+
+# Create an instance of FunctionsString
+stringFun = FunctionsString(stringinput, 3)
+
+# Perform string operations
+stringFun.palindromeChecker()
+stringFun.decrypt(stringFun.encryt())
+stringFun.encryt()
+stringFun.reversestring()
