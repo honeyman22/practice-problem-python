@@ -36,6 +36,8 @@ function.fibonaccisum()
 function.print_primes()
 function.multiplicationTable()
 function.factorialCalculator()
+
+### String Problems
 from functionstring import FunctionsString
 
 # Get user input for a string
